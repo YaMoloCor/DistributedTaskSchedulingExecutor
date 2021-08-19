@@ -1,4 +1,4 @@
-package com.xxl.job.core.enums;
+package org.example.job.core.enums;
 
 /**
  * Created by xuxueli on 17/5/10.

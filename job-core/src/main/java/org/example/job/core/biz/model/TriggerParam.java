@@ -1,10 +1,8 @@
-package com.xxl.job.core.biz.model;
+package org.example.job.core.biz.model;
 
 import java.io.Serializable;
 
-/**
- * Created by xuxueli on 16/7/22.
- */
+
 public class TriggerParam implements Serializable{
     private static final long serialVersionUID = 42L;
 

@@ -1,4 +1,4 @@
-package com.xxl.job.core.util;
+package org.example.job.core.util;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
